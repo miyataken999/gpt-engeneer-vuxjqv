@@ -1,0 +1,17 @@
+app/
+app/__init__.py
+app/main.py
+app/models/
+app/models/__init__.py
+app/models/user.py
+app/models/team.py
+app/routers/
+app/routers/__init__.py
+app/routers/users.py
+app/routers/teams.py
+app/utils/
+app/utils/__init__.py
+app/utils/auth.py
+app/utils/db.py
+requirements.txt
+.gitignore
